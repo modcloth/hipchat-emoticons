@@ -50,7 +50,7 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 ![party](src/party.gif) (party)
 
 ![penguin](src/penguin.gif) (penguin)
-![pharrell](src/pharrell.gif) (pharrell)
+![pharrell](src/pharrell.png) (pharrell)
 ![poolparty](src/poolparty.gif) (poolparty)
 ![puke](src/puke.gif) (puke)
 
