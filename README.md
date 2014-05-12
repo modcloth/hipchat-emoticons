@@ -89,6 +89,7 @@ We are using HipChat's built-in emoticon feature, which means an admin must uplo
 * Max dimensions are 25px tall and 30px wide
 * Use a transparent PNG or animated GIF for best results
 * Images must be under 100Kb
+* Currently limited to 100 custom emoticons
 
 ## Need more emojis?
 
