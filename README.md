@@ -57,28 +57,29 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 ![rock](src/rock.gif) (rock)
 ![rofl](src/rofl.gif) (rofl)
 ![shake](src/shake.gif) (shake)
-![shipit](src/shipit.png) (shipit)
+![shipit](src/shipit.jpg) (shipit)
 
+![shipitgood](src/shipitgood.png) (shipitgood)
 ![shocked](src/shocked.gif) (shocked)
 ![smoking](src/smoking.gif) (smoking)
 ![sun](src/sun.gif) (sun)
-![swear](src/swear.gif) (swear)
 
+![swear](src/swear.gif) (swear)
 ![sweating](src/sweating.gif) (sweating)
 ![taco](src/taco.png) (taco)
 ![tmi](src/tmi.gif) (tmi)
-![tofu](src/tofu.png) (tofu)
 
+![tofu](src/tofu.png) (tofu)
 ![udi](src/udi.png) (udi)
 ![wait](src/wait.gif) (wait)
 ![wave](src/wave.gif) (wave)
-![winston](src/winston.png) (winston)
 
+![winston](src/winston.png) (winston)
 ![wolverine](src/wolverine.gif) (wolverine)
 ![worried](src/worried.gif) (worried)
 ![y](src/y.gif) (y)
-![yawn](src/yawn.gif) (yawn)
 
+![yawn](src/yawn.gif) (yawn)
 ![yinyang](src/yinyang.gif) (yinyang)
 ![yum](src/yum.gif) (yum)
 
