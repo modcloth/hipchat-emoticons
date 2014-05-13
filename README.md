@@ -12,7 +12,7 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 ![bacon](src/bacon.png) (bacon)
 ![bandit](src/bandit.png) (bandit)
 ![billnye](src/billnye.jpg) (billnye)
-![bluesteel](src/bluesteel.gif) (bluesteel)
+![bluesteel](src/bluesteel.png) (bluesteel)
 
 ![blush](src/blush.gif) (blush)
 ![bow](src/bow.gif) (bow)
