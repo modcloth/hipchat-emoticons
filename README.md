@@ -43,7 +43,7 @@ Latest hipchat emoticon news is the size limit has been expanded to 30px by 30px
 ![giggle](src/giggle.gif) (giggle)
 
 ![hack](src/hack.png) (hack)
-![handshake](src/handshake.png) (handshake)
+![handshake](src/handshake.gif) (handshake)
 ![headbang](src/headbang.gif) (headbang)
 ![heartbeat](src/heartbeat.gif) (heartbeat)
 
