@@ -1,8 +1,9 @@
 # ModCloth HipChat emoticons
 
 We've expanded on the core set of [emoticons included with HipChat](http://hipchat-emoticons.nyh.name) and added our own.
-Some of these were lifted from [emoticonHQ](http://emoticonhq.com/skypeemoticons.html) and [FourKitchens](https://github.com/fourkitchens/hipchat-emoticons)
+Some of these were lifted from [emoticonHQ](http://emoticonhq.com/skypeemoticons.html) and [FourKitchens](https://github.com/fourkitchens/hipchat-emoticons).
 Also, let the [EZgif animated GIF resizer](http://ezgif.com/resize) become your friend!
+Latest hipchat emoticon news is the size limit has been expended to 30px by 30px and the number of custom emoticons upped to 100!
 
 ## Emoticons
 
