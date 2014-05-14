@@ -59,44 +59,45 @@ Latest hipchat emoticon news is the size limit has been expanded to 30px by 30px
 
 ![nerd](src/nerd.gif) (nerd)
 ![nod](src/nod.gif) (nod)
+![nyancat](src/nyancat.gif) (nyancat)
 ![oreo](src/oreo.png) (oreo)
-![party](src/party.gif) (party)
 
+![party](src/party.gif) (party)
 ![penguin](src/penguin.gif) (penguin)
 ![pharrell](src/pharrell.png) (pharrell)
 ![poolparty](src/poolparty.gif) (poolparty)
-![puke](src/puke.gif) (puke)
 
+![puke](src/puke.gif) (puke)
 ![rain](src/rain.gif) (rain)
 ![rock](src/rock.gif) (rock)
 ![rofl](src/rofl.gif) (rofl)
-![shake](src/shake.gif) (shake)
 
+![shake](src/shake.gif) (shake)
 ![shipit](src/shipit.jpg) (shipit)
 ![shipitgood](src/shipitgood.png) (shipitgood)
 ![shocked](src/shocked.gif) (shocked)
-![smoking](src/smoking.gif) (smoking)
 
+![smoking](src/smoking.gif) (smoking)
 ![sun](src/sun.gif) (sun)
 ![swear](src/swear.gif) (swear)
 ![sweating](src/sweating.gif) (sweating)
-![taco](src/taco.png) (taco)
 
+![taco](src/taco.png) (taco)
 ![tmi](src/tmi.gif) (tmi)
 ![tofu](src/tofu.png) (tofu)
 ![udi](src/udi.png) (udi)
-![wait](src/wait.gif) (wait)
 
+![wait](src/wait.gif) (wait)
 ![wave](src/wave.gif) (wave)
 ![whew](src/whew.gif) (whew)
 ![winston](src/winston.png) (winston)
-![wolverine](src/wolverine.gif) (wolverine)
 
+![wolverine](src/wolverine.gif) (wolverine)
 ![worried](src/worried.gif) (worried)
 ![y](src/y.gif) (y)
 ![yawn](src/yawn.gif) (yawn)
-![yinyang](src/yinyang.gif) (yinyang)
 
+![yinyang](src/yinyang.gif) (yinyang)
 ![yum](src/yum.gif) (yum)
 ![x](src/x.gif) (x)
 
