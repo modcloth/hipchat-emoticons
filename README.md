@@ -1,6 +1,8 @@
 # ModCloth HipChat emoticons
 
 We've expanded on the core set of [emoticons included with HipChat](http://hipchat-emoticons.nyh.name) and added our own.
+Some of these were lifted from [emoticonHQ](http://emoticonhq.com/skypeemoticons.html) and [FourKitchens](https://github.com/fourkitchens/hipchat-emoticons)
+Also, let the [EZgif animated GIF resizer](http://ezgif.com/resize) become your friend!
 
 ## Emoticons
 
@@ -93,7 +95,7 @@ We've expanded on the core set of [emoticons included with HipChat](http://hipch
 
 We are using HipChat's built-in emoticon feature, which means an admin must upload the image in order for it to work. However, you can still create a pull request to get your icon into the repo, then let a HipChat admin know.
 
-* Max dimensions are 25px tall and 30px wide
+* Max dimensions are 30px tall and 30px wide
 * Use a transparent PNG or animated GIF for best results
 * Images must be under 100Kb
 * Currently limited to 100 custom emoticons
