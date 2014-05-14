@@ -3,7 +3,7 @@
 We've expanded on the core set of [emoticons included with HipChat](http://hipchat-emoticons.nyh.name) and added our own.
 Some of these were lifted from [emoticonHQ](http://emoticonhq.com/skypeemoticons.html) and [FourKitchens](https://github.com/fourkitchens/hipchat-emoticons).
 Also, let the [EZgif animated GIF resizer](http://ezgif.com/resize) become your friend!
-Latest hipchat emoticon news is the size limit has been expended to 30px by 30px and the number of custom emoticons upped to 100!
+Latest hipchat emoticon news is the size limit has been expanded to 30px by 30px and the number of custom emoticons upped to 100!
 
 ## Emoticons
 
@@ -23,33 +23,38 @@ Latest hipchat emoticon news is the size limit has been expended to 30px by 30px
 ![bueller](src/bueller.png) (bueller)
 
 ![bug](src/bug.gif) (bug)
+![callme](src/callme.gif) (callme)
 ![clap](src/clap.gif) (clap)
 ![crying](src/crying.gif) (crying)
-![danceparty](src/danceparty.gif) (danceparty)
 
+![danceparty](src/danceparty.gif) (danceparty)
 ![dancingcorgi](src/dancingcorgi.gif) (dancingcorgi)
 ![devil](src/devil.gif) (devil)
 ![disapprovingkari](src/disapprovingkari.png) (disapprovingkari)
-![doge](src/doge.gif) (doge)
 
+![doge](src/doge.gif) (doge)\
 ![doh](src/doh.gif) (doh)
 ![drunk](src/drunk.gif) (drunk)
 ![dude](src/dude.png) (dude)
-![dull](src/dull.gif) (dull)
 
+![dull](src/dull.gif) (dull)
 ![emo](src/emo.gif) (emo)
 ![flex](src/flex.gif) (flex)
 ![giggle](src/giggle.gif) (giggle)
-![hack](src/hack.png) (hack)
 
+![hack](src/hack.png) (hack)
+![handshake](src/handshake.png) (handshake)
 ![headbang](src/headbang.gif) (headbang)
 ![heartbeat](src/heartbeat.gif) (heartbeat)
+
+![inlove](src/inlove.gif) (inlove)
 ![koger](src/koger.png) (koger)
 ![lifeishard](src/lifeishard.png) (lifeishard)
-
 ![macatoontown](src/macatoontown.jpg) (macatoontown)
+
 ![michaelscott](src/michaelscott.png) (michaelscott)
 ![modcloth](src/modcloth.png) (modcloth)
+![n](src/n.gif) (n)
 ![narwhal](src/narwhal.png) (narwhal)
 
 ![nerd](src/nerd.gif) (nerd)
@@ -83,14 +88,17 @@ Latest hipchat emoticon news is the size limit has been expended to 30px by 30px
 ![wait](src/wait.gif) (wait)
 
 ![wave](src/wave.gif) (wave)
+![whew](src/whew.gif) (whew)
 ![winston](src/winston.png) (winston)
 ![wolverine](src/wolverine.gif) (wolverine)
-![worried](src/worried.gif) (worried)
 
+![worried](src/worried.gif) (worried)
 ![y](src/y.gif) (y)
 ![yawn](src/yawn.gif) (yawn)
 ![yinyang](src/yinyang.gif) (yinyang)
+
 ![yum](src/yum.gif) (yum)
+![x](src/x.gif) (x)
 
 ## Creating your own emoticons
 
