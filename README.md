@@ -20,7 +20,7 @@ Latest hipchat emoticon news is the size limit has been expanded to 30px by 30px
 ![blush](src/blush.gif) (blush)
 ![bow](src/bow.gif) (bow)
 ![brb](src/brb.png) (brb)
-![bueller](src/bueller.png) (bueller)
+![bueller](src/bueller.gif) (bueller)
 
 ![bug](src/bug.gif) (bug)
 ![bushes](src/bushes.gif) (bushes)
