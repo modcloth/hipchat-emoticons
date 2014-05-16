@@ -87,19 +87,21 @@ Latest hipchat emoticon news is the size limit has been expanded to 30px by 30px
 ![tmi](src/tmi.gif) (tmi)
 ![tofu](src/tofu.png) (tofu)
 
+![tumbleweed](src/tumbleweed.gif) (tumbleweed)
 ![udi](src/udi.png) (udi)
 ![wait](src/wait.gif) (wait)
 ![wave](src/wave.gif) (wave)
-![whew](src/whew.gif) (whew)
 
+![whew](src/whew.gif) (whew)
 ![winston](src/winston.png) (winston)
 ![wolverine](src/wolverine.gif) (wolverine)
 ![worried](src/worried.gif) (worried)
-![y](src/y.gif) (y)
 
+![y](src/y.gif) (y)
 ![yawn](src/yawn.gif) (yawn)
 ![yinyang](src/yinyang.gif) (yinyang)
 ![yum](src/yum.gif) (yum)
+
 ![x](src/x.gif) (x)
 
 ## Creating your own emoticons
