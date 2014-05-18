@@ -20,88 +20,90 @@ Latest hipchat emoticon news is the size limit has been expanded to 30px by 30px
 ![blush](src/blush.gif) (blush)
 ![bow](src/bow.gif) (bow)
 ![brb](src/brb.png) (brb)
-![bueller](src/bueller.gif) (bueller)
+![breakdance](src/breakdance.gif) (breakdance)
 
+![bueller](src/bueller.gif) (bueller)
 ![bug](src/bug.gif) (bug)
 ![bushes](src/bushes.gif) (bushes)
 ![callme](src/callme.gif) (callme)
+
 ![clap](src/clap.gif) (clap)
-
 ![crying](src/crying.gif) (crying)
-![danceparty](src/danceparty.gif) (danceparty)
+![dancing](src/dancing.gif) (dancing)
 ![dancingcorgi](src/dancingcorgi.gif) (dancingcorgi)
-![devil](src/devil.gif) (devil)
 
+![devil](src/devil.gif) (devil)
 ![disapprovingkari](src/disapprovingkari.png) (disapprovingkari)
 ![doge](src/doge.gif) (doge)
 ![doh](src/doh.gif) (doh)
-![drunk](src/drunk.gif) (drunk)
 
+![drunk](src/drunk.gif) (drunk)
 ![dude](src/dude.png) (dude)
 ![dull](src/dull.gif) (dull)
 ![emo](src/emo.gif) (emo)
-![flex](src/flex.gif) (flex)
 
+![flex](src/flex.gif) (flex)
 ![giggle](src/giggle.gif) (giggle)
 ![hack](src/hack.png) (hack)
 ![handshake](src/handshake.gif) (handshake)
-![headbang](src/headbang.gif) (headbang)
 
+![headbang](src/headbang.gif) (headbang)
 ![heartbeat](src/heartbeat.gif) (heartbeat)
 ![inlove](src/inlove.gif) (inlove)
 ![koger](src/koger.png) (koger)
-![lifeishard](src/lifeishard.gif) (lifeishard)
 
+![lifeishard](src/lifeishard.gif) (lifeishard)
 ![macatoontown](src/macatoontown.jpg) (macatoontown)
 ![michaelscott](src/michaelscott.gif) (michaelscott)
 ![modcloth](src/modcloth.png) (modcloth)
-![n](src/n.gif) (n)
 
+![n](src/n.gif) (n)
 ![narwhal](src/narwhal.png) (narwhal)
 ![nerd](src/nerd.gif) (nerd)
 ![nod](src/nod.gif) (nod)
-![nyancat](src/nyancat.gif) (nyancat)
 
+![nomnom](src/nomnom.gif) (nomnom)
+![nyancat](src/nyancat.gif) (nyancat)
 ![oreo](src/oreo.png) (oreo)
 ![party](src/party.gif) (party)
+
 ![penguin](src/penguin.gif) (penguin)
 ![pharrell](src/pharrell.png) (pharrell)
-
 ![poolparty](src/poolparty.gif) (poolparty)
 ![puke](src/puke.gif) (puke)
+
 ![rain](src/rain.gif) (rain)
 ![rock](src/rock.gif) (rock)
-
 ![rofl](src/rofl.gif) (rofl)
 ![shake](src/shake.gif) (shake)
+
 ![shipit](src/shipit.jpg) (shipit)
 ![shipitgood](src/shipitgood.png) (shipitgood)
-
 ![shocked](src/shocked.gif) (shocked)
 ![smoking](src/smoking.gif) (smoking)
+
 ![sun](src/sun.gif) (sun)
 ![swear](src/swear.gif) (swear)
-
 ![sweating](src/sweating.gif) (sweating)
 ![taco](src/taco.png) (taco)
+
 ![tmi](src/tmi.gif) (tmi)
 ![tofu](src/tofu.png) (tofu)
-
 ![tumbleweed](src/tumbleweed.gif) (tumbleweed)
 ![udi](src/udi.png) (udi)
+
 ![wait](src/wait.gif) (wait)
 ![wave](src/wave.gif) (wave)
-
 ![whew](src/whew.gif) (whew)
 ![winston](src/winston.png) (winston)
+
 ![wolverine](src/wolverine.gif) (wolverine)
 ![worried](src/worried.gif) (worried)
-
 ![y](src/y.gif) (y)
 ![yawn](src/yawn.gif) (yawn)
+
 ![yinyang](src/yinyang.gif) (yinyang)
 ![yum](src/yum.gif) (yum)
-
 ![x](src/x.gif) (x)
 
 ## Creating your own emoticons
