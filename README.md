@@ -95,7 +95,7 @@ Latest hipchat emoticon news is the size limit has been expanded to 30px by 30px
 ![tumbleweed](src/tumbleweed.gif) (tumbleweed)
 ![udi](src/udi.png) (udi)
 ![wait](src/wait.gif) (wait)
-![walk](src/wave.gif) (walk)
+![walk](src/walk.gif) (walk)
 
 ![wave](src/wave.gif) (wave)
 ![whew](src/whew.gif) (whew)
