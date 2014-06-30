@@ -29,6 +29,7 @@ Latest hipchat emoticon news is the size limit has been expanded to 30px by 30px
 
 ![callme](src/callme.gif) (callme)
 ![clap](src/clap.gif) (clap)
+![crickets](src/crickets.gif) (crickets)
 ![crying](src/crying.gif) (crying)
 ![dancing](src/dancing.gif) (dancing)
 
