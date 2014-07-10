@@ -44,6 +44,7 @@ Latest hipchat emoticon news is the size limit has been expanded to 30px by 30px
 ![dull](src/dull.gif) (dull)
 
 ![emo](src/emo.gif) (emo)
+![ermygerd](src/ermygerd.gif) (ermygerd)
 ![fixit](src/fixit.gif) (fixit)
 ![flex](src/flex.gif) (flex)
 ![giggle](src/giggle.gif) (giggle)
@@ -76,6 +77,7 @@ Latest hipchat emoticon news is the size limit has been expanded to 30px by 30px
 
 ![puke](src/puke.gif) (puke)
 ![rain](src/rain.gif) (rain)
+![rip](src/rip.gif) (rip)
 ![rock](src/rock.gif) (rock)
 ![rofl](src/rofl.gif) (rofl)
 
