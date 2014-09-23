@@ -88,6 +88,7 @@ Latest hipchat emoticon news is the size limit has been expanded to 30px by 30px
 
 ![sick](src/sick.gif) (sick)
 ![smoking](src/smoking.gif) (smoking)
+![steelymcbeam](src/steelymcbeam.gif) (steelymcbeam)
 ![sun](src/sun.gif) (sun)
 ![swear](src/swear.gif) (swear)
 
