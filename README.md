@@ -7,7 +7,7 @@ Latest hipchat emoticon news is the size limit has been expanded to 30px by 30px
 
 ## Emoticons
 
-![leftshark](src/leftshark.png) (leftshark)
+![leftshark](src/leftshark.gif) (leftshark)
 
 ![accepted](src/accepted.gif) (accepted)
 ![alert](src/alert.gif) (alert)
