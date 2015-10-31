@@ -1,128 +1,100 @@
 # ModCloth HipChat emoticons
 
 We've expanded on the core set of [emoticons included with HipChat](http://hipchat-emoticons.nyh.name) and added our own.
-Some of these were lifted from [emoticonHQ](http://emoticonhq.com/skypeemoticons.html) and [FourKitchens](https://github.com/fourkitchens/hipchat-emoticons).
+Some of these were lifted from [skype emoticons](https://support.skype.com/en/faq/FA12330/what-is-the-full-list-of-emoticons) and [FourKitchens](https://github.com/fourkitchens/hipchat-emoticons).
 Also, let the [EZgif animated GIF resizer](http://ezgif.com/resize) become your friend!
-Latest hipchat emoticon news is the size limit has been expanded to 30px by 30px and the number of custom emoticons upped to 100!
 
 ## Emoticons
 
-![leftshark](src/leftshark.gif) (leftshark)
+<img src="src/accepted.gif" height="30" /> (accepted)
+<img src="src/alert.gif" height="30" /> (alert)
+<img src="src/ambulance.gif" height="30" /> (ambulance)
+<img src="src/angry.gif" height="30" /> (angry)
 
-![accepted](src/accepted.gif) (accepted)
-![alert](src/alert.gif) (alert)
-![ambulance](src/ambulance.gif) (ambulance)
-![angry](src/angry.gif) (angry)
+<img src="src/bacon.png" height="30" /> (bacon)
+<img src="src/bandit.gif" height="30" /> (bandit)
+<img src="src/bluesteel.gif" height="30" /> (bluesteel)
+<img src="src/blush.gif" height="30" /> (blush)
 
-![bacon](src/bacon.png) (bacon)
-![bandit](src/bandit.gif) (bandit)
-![billnye](src/billnye.gif) (billnye)
-![bluesteel](src/bluesteel.gif) (bluesteel)
+<img src="src/bow.gif" height="30" /> (bow)
+<img src="src/breakdance.gif" height="30" /> (breakdance)
+<img src="src/brb.gif" height="30" /> (brb)
+<img src="src/bug.gif" height="30" /> (bug)
 
-![blush](src/blush.gif) (blush)
-![png](src/borg.png) (borg)
-![bow](src/bow.gif) (bow)
-![brb](src/brb.png) (brb)
+<img src="src/callme.gif" height="30" /> (callme)
+<img src="src/cat.gif" height="30" /> (cat)
+<img src="src/clap.gif" height="30" /> (clap)
+<img src="src/crying.gif" height="30" /> (crying)
 
-![breakdance](src/breakdance.gif) (breakdance)
-![bueller](src/bueller.gif) (bueller)
-![bug](src/bug.gif) (bug)
-![bushes](src/bushes.gif) (bushes)
+<img src="src/carlton.gif" height="30" /> (carlton)
+<img src="src/celebrate.gif" height="30" /> (celebrate)
+<img src="src/dancingcorgi.gif" height="30" /> (dancingcorgi)
+<img src="src/devil.gif" height="30" /> (devil)
 
-![callme](src/callme.gif) (callme)
-![clap](src/clap.gif) (clap)
-![crickets](src/crickets.gif) (crickets)
-![crying](src/crying.gif) (crying)
-![dancing](src/dancing.gif) (dancing)
+<img src="src/dog.gif" height="30" /> (dog)
+<img src="src/doh.gif" height="30" /> (doh)
+<img src="src/drunk.gif" height="30" /> (drunk)
+<img src="src/dude.jpg" height="30" /> (dude)
 
-![dancingcorgi](src/dancingcorgi.gif) (dancingcorgi)
-![devil](src/devil.gif) (devil)
-![disapprovingkari](src/disapprovingkari.png) (disapprovingkari)
-![doge](src/doge.gif) (doge)
+<img src="src/dull.gif" height="30" /> (dull)
+<img src="src/emo.gif" height="30" /> (emo)
+<img src="src/ermygerd.gif" height="30" /> (ermygerd)
+<img src="src/flex.gif" height="30" /> (flex)
 
-![doh](src/doh.gif) (doh)
-![drunk](src/drunk.gif) (drunk)
-![dude](src/dude.png) (dude)
-![dull](src/dull.gif) (dull)
+<img src="src/giggle.gif" height="30" /> (giggle)
+<img src="src/gottarun.gif" height="30" /> (gottarun)
+<img src="src/handshake.gif" height="30" /> (handshake)
+<img src="src/headbang.gif" height="30" /> (headbang)
 
-![emo](src/emo.gif) (emo)
-![ermygerd](src/ermygerd.gif) (ermygerd)
-![fixit](src/fixit.gif) (fixit)
-![flex](src/flex.gif) (flex)
-![giggle](src/giggle.gif) (giggle)
-![hack](src/hack.png) (hack)
+<img src="src/heartbeat.gif" height="30" /> (heartbeat)
+<img src="src/inlove.gif" height="30" /> (inlove)
+<img src="src/lalala.gif" height="30" /> (lalala)
+<img src="src/leftshark.gif" height="30" /> (leftshark)
 
-![handshake](src/handshake.gif) (handshake)
-![headbang](src/headbang.gif) (headbang)
-![heartbeat](src/heartbeat.gif) (heartbeat)
-![inlove](src/inlove.gif) (inlove)
+<img src="src/lifeishard.gif" height="30" /> (lifeishard)
+<img src="src/michaelscott.gif" height="30" /> (michaelscott)
+<img src="src/modcloth.png" height="30" /> (modcloth)
+<img src="src/n.gif" height="30" /> (n)
 
-![koger](src/koger.png) (koger)
-![lifeishard](src/lifeishard.gif) (lifeishard)
-![macatoontown](src/macatoontown.jpg) (macatoontown)
-![michaelscott](src/michaelscott.gif) (michaelscott)
+<img src="src/nerd.gif" height="30" /> (nerd)
+<img src="src/nod.gif" height="30" /> (nod)
+<img src="src/party.gif" height="30" /> (party)
+<img src="src/penguin.gif" height="30" /> (penguin)
 
-![modcloth](src/modcloth.png) (modcloth)
-![n](src/n.gif) (n)
-![narwhal](src/narwhal.png) (narwhal)
-![nerd](src/nerd.gif) (nerd)
+<img src="src/poolparty.gif" height="30" /> (poolparty)
+<img src="src/puke.gif" height="30" /> (puke)
+<img src="src/rain.gif" height="30" /> (rain)
+<img src="src/rock.gif" height="30" /> (rock)
 
-![nod](src/nod.gif) (nod)
-![nomnom](src/nomnom.gif) (nomnom)
-![nyancat](src/nyancat.gif) (nyancat)
-![oreo](src/oreo.png) (oreo)
+<img src="src/rofl.gif" height="30" /> (rofl)
+<img src="src/shake.gif" height="30" /> (shake)
+<img src="src/shipit.jpg" height="30" /> (shipit)
+<img src="src/smoking.gif" height="30" /> (smoking)
 
-![party](src/party.gif) (party)
-![penguin](src/penguin.gif) (penguin)
-![pharrell](src/pharrell.png) (pharrell)
-![poolparty](src/poolparty.gif) (poolparty)
+<img src="src/stop.gif" height="30" /> (stop)
+<img src="src/sun.gif" height="30" /> (sun)
+<img src="src/swear.gif" height="30" /> (swear)
+<img src="src/sweating.gif" height="30" /> (sweating)
 
-![puke](src/puke.gif) (puke)
-![rain](src/rain.gif) (rain)
-![rip](src/rip.gif) (rip)
-![rock](src/rock.gif) (rock)
-![rofl](src/rofl.gif) (rofl)
+<img src="src/tmi.gif" height="30" /> (tmi)
+<img src="src/tumbleweed.gif" height="30" /> (tumbleweed)
+<img src="src/wait.gif" height="30" /> (wait)
+<img src="src/walk.gif" height="30" /> (walk)
 
-![shake](src/shake.gif) (shake)
-![shipit](src/shipit.jpg) (shipit)
-![shipitgood](src/shipitgood.png) (shipitgood)
-![shocked](src/shocked.gif) (shocked)
+<img src="src/wave.gif" height="30" /> (wave)
+<img src="src/wfh.gif" height="30" /> (wfh)
+<img src="src/whew.gif" height="30" /> (whew)
+<img src="src/winston.png" height="30" /> (winston)
 
-![sick](src/sick.gif) (sick)
-![smoking](src/smoking.gif) (smoking)
-![steelymcbeam](src/steelymcbeam.gif) (steelymcbeam)
-![sun](src/sun.gif) (sun)
-![swear](src/swear.gif) (swear)
-
-![sweating](src/sweating.gif) (sweating)
-![taco](src/taco.png) (taco)
-![tmi](src/tmi.gif) (tmi)
-![tofu](src/tofu.png) (tofu)
-
-![tumbleweed](src/tumbleweed.gif) (tumbleweed)
-![udi](src/udi.png) (udi)
-![unicorn](src/unicorn.png) (unicorn)
-![wait](src/wait.gif) (wait)
-![walk](src/walk.gif) (walk)
-
-![wave](src/wave.gif) (wave)
-![whew](src/whew.gif) (whew)
-![winston](src/winston.png) (winston)
-![wolverine](src/wolverine.gif) (wolverine)
-
-![worried](src/worried.gif) (worried)
-![y](src/y.gif) (y)
-![yawn](src/yawn.gif) (yawn)
-![x](src/x.gif) (x)
+<img src="src/wolverine.gif" height="30" /> (wolverine)
+<img src="src/worried.gif" height="30" /> (worried)
+<img src="src/x.gif" height="30" /> (x)
+<img src="src/y.gif" height="30" /> (y)
+<img src="src/yawn.gif" height="30" /> (yawn)
 
 ## Creating your own emoticons
 
-We are using HipChat's built-in emoticon feature, which means an admin must upload the image in order for it to work. However, you can still create a pull request to get your icon into the repo, then let a HipChat admin know.
-
-* Max dimensions are 30px tall and 30px wide
-* Use a transparent PNG or animated GIF for best results
-* Images must be under 100Kb
-* Currently limited to 100 custom emoticons
+* Use a transparent PNG or animated GIF 100px by 100px or larger for best results.
 
 ## Need more emojis?
 
